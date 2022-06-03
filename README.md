@@ -1,5 +1,7 @@
 Demo website server would take about a minute to wakeup after the first click event of pressing the buy button.
 
+[DEMO WEBSITE](https://bricksite-stripe-checkout.k4u5hik.repl.co/)
+
 # StripeCheckoutBasic
 
 I am quite please with myself because this is the first time that I have been able to actually program the frontend and the backend to work together with a payments processor. This opens up many ways I can monetise with my website design and not have to pay for the ecommerce website provision. I understand that it comes with a risk but it is great for a starter like myself who is working on low volumes and many different websites.
